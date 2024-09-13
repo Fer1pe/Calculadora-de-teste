@@ -1,0 +1,3 @@
+C:/Users/felip/CLionProjects/Minha_calculadora_funcional/cmake-build-debug/CMakeFiles/Minha_calculadora_funcional.dir
+C:/Users/felip/CLionProjects/Minha_calculadora_funcional/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felip/CLionProjects/Minha_calculadora_funcional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
